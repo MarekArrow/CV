@@ -1,0 +1,259 @@
+.homePage {
+      margin:0;
+      text-align:center;
+      height:100%;
+      background: url("../images/mountain1.png"), url("../images/mountain2.png") bottom, url("../images/storks.png") top right, url("../images/circle.png") 90% 80%;
+      background-repeat: no-repeat;
+     }
+
+.workPage {
+      margin:0;
+      text-align:center;
+      height:100%;
+      background:url("../images/branch.png") top left, url("../images/mountain2.png") bottom, url("../images/storks.png") top right;
+      background-repeat: no-repeat;
+      }
+
+.contactPage {
+      margin:0;
+      text-align:center;
+      height:100%;
+      background: url("../images/circle2.png"), url("../images/mountain2.png") bottom, url("../images/storks.png") top right;
+      background-repeat: no-repeat;
+      }
+
+.top {
+      padding-top:50px;
+     }
+
+.mainHeader {
+    color:#3282B8;
+    font-family: 'Tangerine', cursive;
+    font-size:5.5rem;
+    margin:12% auto 0 auto;
+     }
+
+.workContactHeader {
+    color:#3282B8;
+    font-family: 'Montserrat', sans-serif;
+    font-size:4rem;
+    margin:5% auto 0 auto;
+     }
+
+.header1 {
+    color:#2B2B2B;
+    font-family: 'Montserrat', sans-serif;
+    font-size:1.75rem;
+    font-weight:normal;
+    }
+
+.header2 {
+    color:#2B2B2B;
+    font-family: 'Montserrat', sans-serif;
+    font-size:2rem;
+    font-weight:600;
+    }
+
+h3 {
+    color:#0F4C75;
+    font-family: 'Montserrat', sans-serif;
+    font-size:1.2rem;
+    font-weight:600;
+    }
+
+p {
+    color:#2B2B2B;
+    font-family: 'Montserrat', sans-serif;
+    font-size:1rem;
+     }
+
+.middle-container {
+    margin:25% 0 15%;
+     }
+
+.middle-containerWorkContact {
+    margin:7% 0 15%;
+      }
+
+.photo {
+  width:15%;
+}
+
+.intro {
+  width: 30%;
+  margin:auto auto 50px;
+}
+
+.skill-row1 {
+    width:50%;
+    direction:rtl;
+    text-align: justify;
+    margin:100px auto 100px auto;
+     }
+
+.html-img {
+      width:20%;
+      float: left;
+      margin-right:20px;
+     }
+
+.skill-row2 {
+      width:50%;
+      text-align: justify;
+      margin:100px auto 100px auto;
+    }
+
+.sql-img {
+      width:20%;
+      float: right;
+      margin-left:20px;
+    }
+
+.skill-row3 {
+      width:50%;
+      direction:rtl;
+      text-align: justify;
+      margin:100px auto 100px auto;
+    }
+
+.finance-img {
+      width:20%;
+      float: left;
+      margin-right:20px;
+    }
+
+.workRow1 {
+      width:50%;
+      right:15%;
+      text-align: justify;
+      background-color:#FEFBF3;
+      margin:10px auto 100px auto;
+      position:absolute;
+      padding:10px;
+    }
+
+.workRow2 {
+      width:50%;
+      right:15%;
+      text-align: justify;
+      background-color:#FEFBF3;
+      margin:260px auto 100px auto;
+      position:absolute;
+      padding:10px;
+    }
+
+.logo-img1 {
+      width:20%;
+      position:absolute;
+      left:10%;
+      margin:10px auto 100px auto;
+      padding:10px;
+    }
+
+.logo-img2 {
+      width:30%;
+      position:absolute;
+      left:3%;
+      margin:290px auto 100px auto;
+      padding:10px;
+      }
+
+.workRow3 {
+      width:50%;
+      right:15%;
+      text-align: justify;
+      background-color:#FEFBF3;
+      margin:470px auto 100px auto;
+      position:absolute;
+      padding:10px;
+      }
+
+  .logo-img3 {
+      width:15%;
+      position:absolute;
+      left:12%;
+      margin:470px auto 100px auto;
+      padding:10px;
+      }
+
+.job-row2 {
+    width:60%;
+    direction:rtl;
+    text-align: justify;
+    background-color:#FEFBF3;
+    margin:100px auto 100px auto;
+    }
+
+.bottom {
+    background-color:#2B2B2B;
+    padding:50px 0 20px;
+     }
+
+.link {
+  font-size:25px;
+  color: #2B2B2B;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.home {
+  position:relative;
+  left: 25%;
+}
+
+.work {
+  position:relative;
+  left: 30%;
+}
+
+.contact-me {
+  margin: 50px auto;
+}
+
+.contact-me2 {
+  margin: 700px auto 50px;
+}
+
+.btn {
+	background-color:#F05454;
+	border-radius:26px;
+	border:2px solid #361d09;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:18px;
+	padding:5px 16px;
+	text-decoration:none;
+	text-shadow:-2px 1px 50px white;
+}
+.btn:hover {
+	background-color:#361d09;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.contact {
+  position:relative;
+  left:35%;
+}
+
+a:hover {
+        color:#F05454;
+        }
+
+a:active {
+          color:#F05454;
+         }
+.footer-link {
+          color:white;
+          font-family: 'Montserrat', sans-serif;
+          text-decoration:none;
+          margin: 20px 10px;
+         }
+
+.footer {
+          color:white;
+         }
